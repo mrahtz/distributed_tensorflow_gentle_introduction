@@ -1,4 +1,4 @@
-# Distributed TensorFlow - A Gentle Introduction
+# Distributed TensorFlow: A Gentle Introduction
 
 ![](images/distributed_tensorflow.png)
 
